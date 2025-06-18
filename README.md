@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+A working video is available above in mp4 format.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
